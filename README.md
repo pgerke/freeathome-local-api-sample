@@ -12,7 +12,7 @@ npm install
 
 2. Create an .env file
 
-You'll need to provide the System Access Point host name, the user ID and the password to create a connection
+You'll need to provide the System Access Point host name, the user ID and the password to create a connection. I'd recomment setting up a `.env` file
 
 ```
 SYSAP_HOST=<host name>
