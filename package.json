@@ -1,0 +1,21 @@
+{
+  "name": "freeathome-local-api-sample",
+  "version": "1.0.0",
+  "description": "A Node.JS script illustrating the use of the freeathome-local-api-client.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "author": {
+    "email": "info@philipgerke.com",
+    "name": "Philip Gerke",
+    "url": "https://www.philipgerke.com"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "freeathome-local-api-client": "^0.2.0-pre",
+    "node-fetch": "^3.2.4"
+  }
+}
