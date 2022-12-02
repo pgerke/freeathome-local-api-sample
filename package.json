@@ -1,6 +1,6 @@
 {
   "name": "freeathome-local-api-sample",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Node.JS script illustrating the use of the freeathome-local-api-client.",
   "main": "index.cjs",
   "module": "index.mjs",
