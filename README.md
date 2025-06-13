@@ -2,6 +2,10 @@
 
 A Node.JS script illustrating the use of the [freeathome-local-api-client](https://github.com/pgerke/freeathome-local-api-client).
 
+This script demonstrates how to connect to the Busch-Jaeger free@home System Access Point (SysAP) and control devices such as lights, shutters, and heating systems. It provides a basic example of how to use the client library to interact with the free@home systems local API.
+
+**This is a demo repository and will not be actively maintained!**
+
 ## Usage Instructions
 
 1. Install dependencies
